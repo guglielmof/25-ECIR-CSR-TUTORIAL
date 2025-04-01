@@ -12,4 +12,4 @@ The notebook can also be accessed via the following link: <a href="https://colab
 
 The code reported in the notebook assumes a GPU is available.
 
-The code is available on GitHub for reference; the Python notebook contains instructions for downloading the needed code and data programmatically, hence it can be executed directly.
+The code is available on GitHub for reference; the Jupyter notebook contains instructions for downloading the needed code and data programmatically, hence it can be executed directly.
