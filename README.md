@@ -17,7 +17,7 @@ The code is available on GitHub for reference; the Jupyter notebook contains ins
 
 Concerning the CoSRec, joint conversaional search and recommendation, dataset there is a Jupyter notebook which contains the scripts and exlanations on how the dataset is built and intended to be used.
 
-The CosRec notebook can also be accessed via the following link:<a href="https://colab.research.google.com/drive/1JcyIOd5RPCRAErFE0Jjg8TC4SP4-2Mu0?usp=sharing">Colab Notebook</a>.
+The CoSRec notebook can also be accessed via the following link:<a href="https://colab.research.google.com/drive/1JcyIOd5RPCRAErFE0Jjg8TC4SP4-2Mu0?usp=sharing">Colab Notebook</a>.
 
 The code is available on GitHub for reference; the Jupyter notebook contains instructions for downloading the needed code and data programmatically, hence it can be executed directly.
 
